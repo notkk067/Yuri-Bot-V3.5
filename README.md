@@ -1,7 +1,7 @@
 🤖 Yuri-Bot-V3.5
 
 <p align="center">
-  <img src="https://sungbot.vip/api/media/get/540b171b-5c1a-4db0-8721-f53583feb003" width="300">
+  <img src="https://i.postimg.cc/CxPr7M5M/Screenshot-20260315-213846-Samsung-Internet.png" width="300">
 </p>Bot de WhatsApp desenvolvido em Node.js, focado em automação, utilidades, downloads e diversão para grupos e uso pessoal.
 
 ---
